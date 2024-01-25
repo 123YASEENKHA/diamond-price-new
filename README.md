@@ -46,6 +46,6 @@ Copy code
 Acknowledgments
 Dataset Source: Kaggle - Diamonds Dataset
 Feel free to customize and extend this project based on your requirements. For further details, refer to the individual files and their functionalities.
-
+check the webpage here https://diamond-price-prediction-l59g.onrender.com/
 Author
 ABDUL YASEEN   GitHub Profile:https://github.com/123YASEENKHA/diamond-price-predictions/
